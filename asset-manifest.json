@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.dd93ea16.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.f0969f17.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f0969f17.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
+    "static/js/2.82c06158.chunk.js": "/react-portfolio/static/js/2.82c06158.chunk.js",
+    "static/js/2.82c06158.chunk.js.map": "/react-portfolio/static/js/2.82c06158.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.b39d24771a234b19d0ef748c0df048a6.js": "/react-portfolio/precache-manifest.b39d24771a234b19d0ef748c0df048a6.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.dd93ea16.chunk.css.map": "/react-portfolio/static/css/main.dd93ea16.chunk.css.map",
+    "static/js/2.82c06158.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.82c06158.chunk.js.LICENSE.txt",
+    "static/media/Bartender-Book.png": "/react-portfolio/static/media/Bartender-Book.6a4a7e99.png",
+    "static/media/TroubleshootingLog.png": "/react-portfolio/static/media/TroubleshootingLog.1788dd78.png",
+    "static/media/me.jpg": "/react-portfolio/static/media/me.d1ba81cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.213b1880.js",
+    "static/js/2.82c06158.chunk.js",
+    "static/css/main.dd93ea16.chunk.css",
+    "static/js/main.f0969f17.chunk.js"
+  ]
+}
