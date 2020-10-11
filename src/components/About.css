@@ -1,0 +1,59 @@
+
+
+#colorblock {
+    height: 100%;
+    background: linear-gradient(90deg, rgb(0, 0, 0) 50%, rgb(119, 119, 155) 50%);
+
+  }
+
+ 
+  .content {
+    position: relative;
+    z-index: 2;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    
+  }
+h1 {
+    font-size: 72px;
+    margin-bottom: 40px;
+}
+
+.info {
+    padding: 40px 60px;
+    background-color: rgb(80, 64, 175);
+    justify-content: center;
+    width: 80%;
+    max-width: 800px;
+    color: rgb(255, 255, 255);
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#myName {
+overflow: hidden;
+float: left;
+margin-left: 15px;
+}
+@media only screen and (max-width: 665px) {
+  #colorblock{
+   background: black;
+   
+  }
+ *{
+   align-content: center;
+   
+ }
+  #myName {
+    float: 'none';
+    overflow: visible;
+    margin: auto;
+  }
+ i:hover {
+  color: gray;
+ } 
+ i:visited {
+  color: white;
+ } 
+}
