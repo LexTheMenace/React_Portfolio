@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.4b689166.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.2083fade.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.2083fade.chunk.js.map",
+    "main.css": "/React_Portfolio/static/css/main.843b7d5c.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.2e915bee.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.2e915bee.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.6c723fb5.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.6c723fb5.js.map",
-    "static/js/2.c80f304a.chunk.js": "/React_Portfolio/static/js/2.c80f304a.chunk.js",
-    "static/js/2.c80f304a.chunk.js.map": "/React_Portfolio/static/js/2.c80f304a.chunk.js.map",
+    "static/js/2.a88cf2d0.chunk.js": "/React_Portfolio/static/js/2.a88cf2d0.chunk.js",
+    "static/js/2.a88cf2d0.chunk.js.map": "/React_Portfolio/static/js/2.a88cf2d0.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.fa4745f97637e39871c7e5d0d9cd2c0f.js": "/React_Portfolio/precache-manifest.fa4745f97637e39871c7e5d0d9cd2c0f.js",
+    "precache-manifest.1ddea68cc6c7b8328890ae20144d2aba.js": "/React_Portfolio/precache-manifest.1ddea68cc6c7b8328890ae20144d2aba.js",
     "service-worker.js": "/React_Portfolio/service-worker.js",
-    "static/css/main.4b689166.chunk.css.map": "/React_Portfolio/static/css/main.4b689166.chunk.css.map",
-    "static/js/2.c80f304a.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.c80f304a.chunk.js.LICENSE.txt",
+    "static/css/main.843b7d5c.chunk.css.map": "/React_Portfolio/static/css/main.843b7d5c.chunk.css.map",
+    "static/js/2.a88cf2d0.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.a88cf2d0.chunk.js.LICENSE.txt",
     "static/media/Bartender-Book.gif": "/React_Portfolio/static/media/Bartender-Book.4aadf70e.gif",
     "static/media/Bartender-Book.png": "/React_Portfolio/static/media/Bartender-Book.6a4a7e99.png",
     "static/media/TroubleshootingLog.png": "/React_Portfolio/static/media/TroubleshootingLog.1788dd78.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6c723fb5.js",
-    "static/js/2.c80f304a.chunk.js",
-    "static/css/main.4b689166.chunk.css",
-    "static/js/main.2083fade.chunk.js"
+    "static/js/2.a88cf2d0.chunk.js",
+    "static/css/main.843b7d5c.chunk.css",
+    "static/js/main.2e915bee.chunk.js"
   ]
 }
